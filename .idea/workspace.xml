@@ -14,7 +14,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
+            <state relative-caret-position="2369">
               <caret line="103" column="35" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="35" />
             </state>
           </provider>
@@ -24,10 +24,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find />
+      <find>دانلود پروفایل</find>
       <find>chat</find>
       <find>apcu_store($chat_id.'-location','answer');</find>
-      <find />
+      <find>['help'=&gt;'راهنما استفاده']</find>
       <find>['cancel'=&gt;'کنسل']</find>
       <find>'help'</find>
     </findStrings>
@@ -39,6 +39,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -104,15 +105,15 @@
       <option name="presentableId" value="Default" />
       <updated>1552303354140</updated>
       <workItem from="1552303355676" duration="1180000" />
-      <workItem from="1552374461924" duration="1984000" />
+      <workItem from="1552374461924" duration="3422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3164000" />
+    <option name="totallyTimeSpent" value="4602000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986508" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -149,9 +150,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="79" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
+        <state relative-caret-position="2369">
           <caret line="103" column="35" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="35" />
         </state>
       </provider>
